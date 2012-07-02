@@ -1,4 +1,4 @@
-Package: tm.plugin.factiva
+Package: tm.plugin.factiva.old
 Type: Package
 Title: Import articles from Factiva using the tm text mining framework
 Version: 1.1
